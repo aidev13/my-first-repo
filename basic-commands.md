@@ -1,6 +1,6 @@
 pwd - 'Print working directories" shows current path
 
-ls - liost all folders and fies at current location
+ls - list all folders and files at current location
 
 cd < directory-name> - Change directory and the name of folder you want to move to
 
@@ -13,6 +13,9 @@ mkdir - make new directory (folder)
 touch <file name> - makes new file
 
 .md = markdown file
+
+CRTL + S = Save File
+
 
 *Tips: 
    - Make all files lowercased and with no spaces... use the dash '-' in place of space
